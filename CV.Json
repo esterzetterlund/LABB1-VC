@@ -1,0 +1,12 @@
+{
+    "education": [
+      { "title": "Systemutveckling, Edugrade", "years": "2023-nu", "place": "Hudiksvall" },
+      { "title": "Ekonomi, Bromangymnasium", "years": "2016-2019", "place": "Hudiksvall" },
+      { "title": "Grundskola, Läroverket", "years": "2013-2016", "place": "Hudiksvall" }
+    ],
+    "work": [
+      { "title": "Heltidsanställd, Restaurang Ming", "years": "2018-2024", "tasks": ["Servera", "Diska", "Planera bokningar"] },
+      { "title": "Extrajobbare, Trygga Hjälpen", "years": "Sommaren 2018", "tasks": ["Ansvar", "Hjälpa kunder"] }
+    ]
+  }
+  
